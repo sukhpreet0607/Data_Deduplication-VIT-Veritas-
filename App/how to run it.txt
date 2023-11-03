@@ -1,0 +1,1 @@
+to run it just move test_dir and chunks_database out of this app folder and then go to app folder and run index.js file
